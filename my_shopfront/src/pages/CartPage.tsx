@@ -95,7 +95,7 @@ export function CartPage({
               className="button primary checkout"
               onClick={() =>
                 window.alert(
-                  "This is a demo store, so checkout does not charge anything.",
+                  "This is a demo store, createed by DXCHNG. So checkout does not charge anything.",
                 )
               }
             >
